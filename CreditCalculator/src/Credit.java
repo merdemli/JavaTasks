@@ -10,10 +10,8 @@ public class Credit {
     }
 
     public Credit( int year, double amount) {
-
         this.year = year;
         this.amount = amount;
-
     }
 
     public int getYear() {
